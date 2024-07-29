@@ -1,0 +1,5 @@
+local gameId = game.GameId
+
+if gameId == 4587615400 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Battleborne", true))()
+end
