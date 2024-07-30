@@ -4,6 +4,8 @@ if gameId == 4587615400 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Battleborne", true))()
 elseif gameId == 110181652 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Epic%20Minigames", true))()
+elseif gameId == 11966456877 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Answer%20or%20Die", true))()
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Unsupported", true))()
 end
