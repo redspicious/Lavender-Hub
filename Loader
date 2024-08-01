@@ -8,6 +8,8 @@ elseif gameId == 4234745929 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Answer%20or%20Die", true))()
 elseif gameId == 5155896063 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Fruit%20Ninja%20Simulator", true))()
+elseif gameId == 6217832823 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Push-Up%20Training%20Simulator", true))()
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Unsupported", true))()
 end
