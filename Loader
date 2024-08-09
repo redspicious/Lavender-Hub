@@ -20,6 +20,8 @@ elseif gameId == 6145884550 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Guess%20Flags%20or%20Die", true))()
 elseif gameId == 6239989165 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Money%20Clicker%20Inc.", true))()
+elseif gameId == 3266192001 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Kill%20Monsters%20to%20Save%20Princess", true))()
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Unsupported", true))()
 end
