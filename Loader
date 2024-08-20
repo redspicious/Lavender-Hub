@@ -22,6 +22,8 @@ elseif gameId == 6239989165 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Money%20Clicker%20Inc.", true))()
 elseif gameId == 3266192001 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Kill%20Monsters%20to%20Save%20Princess", true))()
+elseif gameId == 4371517212 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Tower%20of%20Color%20Block", true))()
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Unsupported", true))()
 end
