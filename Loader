@@ -24,6 +24,8 @@ elseif gameId == 3266192001 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Kill%20Monsters%20to%20Save%20Princess", true))()
 elseif gameId == 4371517212 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Tower%20of%20Color%20Block", true))()
+elseif gameId == 1700277088 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Victory%20Race", true))()
 else
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/redspicious/Lavender-Hub/main/Scripts/Unsupported", true))()
 end
